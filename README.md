@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rizal Ahmad Syarif](img/bner.png)
+![Rizal Ahmad Syarif](img/bener.png)
 
 #### 💻 Tech Stack: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,react,mongo)](https://skillicons.dev)
