@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **rizalahmadsyariff/rizalahmadsyariff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Rizal Ahmad Syarif](img/bner.png)
+
+#### My Skills 💻
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,react,mongo)](https://skillicons.dev)
+### Connect with Me 🖇️
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram/rizalahmadsyarif)
